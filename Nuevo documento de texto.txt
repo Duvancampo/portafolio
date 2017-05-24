@@ -1,0 +1,23 @@
+ <form id="contactForm" novalidate="">
+        <div class="form-item">
+          <label for="“name”">Name</label>
+          <input id="name" type="text" placeholder="Nombre" required=""/>
+        </div>
+        <div class="form-item">
+          <label for="“email”">Email Address</label>
+          <input id="email" type="email" placeholder="Correo Electronico" required=""/>
+        </div>
+        <div class="form-item">
+          <label for="“phone”">Phone Number</label>
+          <input id="phone" type="tel" placeholder="Numero de Celular" required=""/>
+        </div>
+        <div class="form-item">
+          <label for="“message”">Message</label>
+          <textarea id="message" rows="5" placeholder="Mensaje" required=""></textarea>
+        </div><br/>
+        <button type="submit">Enviar</button>
+      </form>
+      <div>
+        <p>Quieres entrar en contacto conmigo Ya sea para solicitar mas informacion sobre mi o mi experiencia, para pedir mi opinion, consejos sobre que es un sistema o alguna duda relaccionada con mi carrera... Simplemente sientase libre de dejarme una linea en cualquier momento</p>
+        <p>Prometo responderte en el menor tiempo posible</p>
+        <p>Nota: No spam/Solicitando para mi, gracias</p>
